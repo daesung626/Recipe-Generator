@@ -1,0 +1,24 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daesung626/Recipe-Generator.git"
+  },
+  "author": "Daesung Choi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daesung626/Recipe-Generator/issues"
+  },
+  "homepage": "https://github.com/daesung626/Recipe-Generator#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.1",
+    "sass": "^1.29.0"
+  }
+}
